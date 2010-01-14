@@ -1,0 +1,6 @@
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Debug\NZBRunner.exe
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Debug\NZBRunner.pdb
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Debug\NZBRunner.exe
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Debug\NZBRunner.pdb
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Debug\nzbrunner.ini

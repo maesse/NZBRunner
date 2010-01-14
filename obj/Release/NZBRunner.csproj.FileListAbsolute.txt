@@ -1,0 +1,19 @@
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Release\nzbrunner.ini
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Release\NZBRunner.exe
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Release\NZBRunner.pdb
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Release\NZBRunner.exe
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Release\NZBRunner.pdb
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Release\NZBRunner.exe.manifest
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\bin\Release\NZBRunner.application
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Release\NZBRunner.exe.manifest
+C:\Users\mads\Documents\Visual Studio 2008\Projects\NZBRunner\NZBRunner\obj\Release\NZBRunner.application
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\bin\Release\NZBRunner.exe.config
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\bin\Release\NZBRunner.exe
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\bin\Release\NZBRunner.pdb
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\NZBRunner.Program.resources
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\NZBRunner.Properties.Resources.resources
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\NZBRunner.csproj.GenerateResource.Cache
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\NZBRunner.exe
+C:\Users\mads\Programmering\OldProjects\NZBRunner\NZBRunner\obj\Release\NZBRunner.pdb
